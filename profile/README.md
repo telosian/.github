@@ -15,9 +15,10 @@ We can't stop technology - it will continue to improve, driven by the anticipati
 
 So, we need to learn to live with each other and ourselves. 
 
-Our biology and social structures were developed for a smaller world, with less destructive technologies. 
+<!-- Our biology and social structures were developed for a smaller world, with less destructive technologies. 
 
 We can still be provoked into tribalism and seeing others as not-human. This was adaptive in our genetic past, but has also led to mass death and warfare throughout history. 
+-->
 
 We need
 
